@@ -2,7 +2,6 @@
 
 中文用户可以移步至 ☞ [git-emoji 中文版](https://github.com/maixiaojie/git-emoji-zh)
 
-
 ## Features
 
 Using this vscode plugins on commit messages really very easy.
