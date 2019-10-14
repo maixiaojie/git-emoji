@@ -1,4 +1,7 @@
-[![](https://vsmarketplacebadge.apphb.com/version-short/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)
+[![](https://vsmarketplacebadge.apphb.com/version/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/installs/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/downloads/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/rating/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)
+
+
+
 
 # Git Emoji Commit
 
