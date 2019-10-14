@@ -1,3 +1,5 @@
+[![](https://vsmarketplacebadge.apphb.com/version-short/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)
+
 # Git Emoji Commit
 
 中文用户可以移步至 ☞ [git-emoji 中文版](https://github.com/maixiaojie/git-emoji-zh)
