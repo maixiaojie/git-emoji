@@ -11,7 +11,9 @@ Using this vscode plugins on commit messages really very easy.
 you can try it if you like git emoji and using vscode!
 
 
-![](images/feature_main.png)
+![](images/features_es.gif)
+
+and you can see after commit:
 
 ![](images/feature_main_rs.png)
 
