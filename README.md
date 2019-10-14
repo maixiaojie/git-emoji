@@ -1,5 +1,8 @@
 # Git Emoji Commit
 
+中文用户可以移步至 ☞ [git-emoji 中文版](https://github.com/maixiaojie/git-emoji-zh)
+
+
 ## Features
 
 Using this vscode plugins on commit messages really very easy.
@@ -10,6 +13,10 @@ you can try it if you like git emoji and using vscode!
 ![](images/feature_main.png)
 
 ![](images/feature_main_rs.png)
+
+## download
+
+vscode plugin search `git-emoji`
 
 ## issues
 
