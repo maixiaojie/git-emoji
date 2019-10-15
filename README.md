@@ -1,4 +1,7 @@
-[![](https://vsmarketplacebadge.apphb.com/version-short/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)
+[![](https://vsmarketplacebadge.apphb.com/version/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/installs/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/downloads/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/rating/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)
+
+
+
 
 # Git Emoji Commit
 
@@ -11,7 +14,9 @@ Using this vscode plugins on commit messages really very easy.
 you can try it if you like git emoji and using vscode!
 
 
-![](images/feature_main.png)
+![](images/features_es.gif)
+
+and you can see after commit:
 
 ![](images/feature_main_rs.png)
 
