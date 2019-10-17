@@ -1,9 +1,10 @@
 # Change Log
 
-## [1.0.4] 2019-10-17
+## [1.0.5] 2019-10-17
 
 - change icons
 - change logo
+- add a space between emoji code and message
 
 ## [1.0.3] 2019-10-15
 
