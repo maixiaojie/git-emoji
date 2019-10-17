@@ -2,7 +2,7 @@
 	"name": "git-emoji",
 	"displayName": "Git Emoji Commit",
 	"description": "prefix commit message with value in git emoji",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"publisher": "maixiaojie",
 	"author": {
 		"name": "maixiaojie"
