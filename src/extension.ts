@@ -34,7 +34,7 @@ export function activate(context: vscode.ExtensionContext) {
 	context.subscriptions.push(disposable);
 }
 function prefixCommit(repository: Repository, prefix: String) {
-	repository.inputBox.value = `${prefix}${repository.inputBox.value}`;
+	repository.inputBox.value = `${prefix} ${repository.inputBox.value}`;
 }
 function getGitExtension() {
 	const vscodeGit = vscode.extensions.getExtension<GitExtension>('vscode.git');
