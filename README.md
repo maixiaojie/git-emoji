@@ -37,3 +37,4 @@ vscode plugin search `git-emoji`
 The code is available under the [MIT](https://github.com/maixiaojie/git-emoji/blob/master/LICENSE) license.
 
 **Enjoy Your Every Commit!**
+
