@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "JeromeDeLeon",
+      "name": "Jerome de Leon",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/32805276?v=4",
+      "profile": "https://github.com/JeromeDeLeon",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "git-emoji",
+  "projectOwner": "maixiaojie",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
