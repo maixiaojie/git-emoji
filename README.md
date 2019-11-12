@@ -48,7 +48,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/JeromeDeLeon"><img src="https://avatars0.githubusercontent.com/u/32805276?v=4" width="100px;" alt="Jerome de Leon"/><br /><sub><b>Jerome de Leon</b></sub></a><br /><a href="#design-JeromeDeLeon" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/JeromeDeLeon"><img src="https://avatars0.githubusercontent.com/u/32805276?v=4" width="100px;" alt="Jerome de Leon"/><br /><sub><b>Jerome de Leon</b></sub></a><br /><a href="#design-JeromeDeLeon" title="Design">🎨</a> <a href="https://github.com/maixiaojie/git-emoji/commits?author=JeromeDeLeon" title="Code">💻</a></td>
   </tr>
 </table>
 
