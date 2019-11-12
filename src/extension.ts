@@ -11,7 +11,7 @@ export function activate(context: vscode.ExtensionContext) {
 		// init pick items
 		let items = [];
 		for (let i = 0; i < emojis.length; i++) {
-			items.push({ label: emojis[i].emoji, code: emojis[i].code, description: '['+ emojis[i].name + '] ' + emojis[i].description });
+			items.push({ label: `${emojis[i].emoji} ${emojis[i].description}`, code: emojis[i].code, description: '['+ emojis[i].name + ']' });
 		}
 		vscode.window.showQuickPick(items).then(function (selected?) {
 			if (selected) {
