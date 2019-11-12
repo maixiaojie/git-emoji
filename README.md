@@ -10,26 +10,24 @@
 
 ## Features
 
-Using this vscode plugins on commit messages really very easy.
-
-you can try it if you like git emoji and using vscode!
+This extension easily adds emoji to your commit message.
 
 
 ![](images/features_es.gif)
 
-and you can see after commit:
+You can make your commit less boring
 
 ![](images/feature_main_rs.png)
 
-## download
+## Download
 
-vscode plugin search `git-emoji`
+Run `ext install git-emoji` in the command palette
 
-## issues
+## Issues
 
 [https://github.com/maixiaojie/git-emoji/issues](https://github.com/maixiaojie/git-emoji/issues)
 
-## sources
+## Sources
 
 [https://github.com/maixiaojie/git-emoji](https://github.com/maixiaojie/git-emoji)
 
@@ -55,4 +53,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind is welcome!
