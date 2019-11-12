@@ -1,4 +1,5 @@
 [![](https://vsmarketplacebadge.apphb.com/version/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/installs/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/downloads/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/rating/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 
 
@@ -38,3 +39,19 @@ The code is available under the [MIT](https://github.com/maixiaojie/git-emoji/bl
 
 **Enjoy Your Every Commit!**
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/JeromeDeLeon"><img src="https://avatars0.githubusercontent.com/u/32805276?v=4" width="100px;" alt="Jerome de Leon"/><br /><sub><b>Jerome de Leon</b></sub></a><br /><a href="#design-JeromeDeLeon" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
